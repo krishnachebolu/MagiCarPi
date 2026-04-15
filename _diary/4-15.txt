@@ -1,0 +1,13 @@
+April 15, 2026
+
+SETUP:
+- Downloaded Raspberry PI imager from main website.
+- Installed Pi imager using 'sudo apt install rpi-imager'.
+- Opened imager and entered customizations.
+    - Also did ssh-keygen.
+- Created Raspberry PI Connect account.
+    - password: Tu*7ik.t8gJpTt9
+- Commenced writing all this customizations on MicroSD via the imager.
+- Plugged MicroSD intro Raspberry PI and connected to computer.
+- To ssh into pi: 'ssh belouch@192.168.4.220'.
+- Remote-SSH from VSCode into PI is complete
